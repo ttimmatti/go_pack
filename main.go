@@ -1,4 +1,4 @@
-package go_pack
+package lib
 
 import "log"
 
