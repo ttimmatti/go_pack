@@ -1,7 +1,5 @@
-package lib
+package main
 
-import "log"
-
-func Print(text string) {
-	log.Println(text)
+func main() {
+	Init()
 }
